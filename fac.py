@@ -1,1 +1,1 @@
-print("Subido por Felipe Alfaro")
+print("Evitemos los conflictos amigos")
